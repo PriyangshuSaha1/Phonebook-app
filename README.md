@@ -1,4 +1,3 @@
-Sure! Here's the full `README.md` content in one block, ready to copy and paste into your GitHub repository:
 
 ---
 
@@ -96,5 +95,4 @@ Created by [Priyangshu Saha](https://github.com/PriyangshuSaha1)
 
 ---
 
-Let me know if you'd like to include badges, images/screenshots, or a changelog section too.
 ```
